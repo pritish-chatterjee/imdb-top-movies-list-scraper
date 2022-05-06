@@ -2,10 +2,10 @@
 
 A simple 10 min project to flex your python muscles and stay in touch with your python skills. This code scrapes the IMDB Top 250 Movies List and creates an excel sheet with the following data :
 
-- 1 Rank
-- 2 Name
-- 3 Year of Release
-- 4 IMDB Rating
+- Rank
+- Name
+- Year of Release
+- IMDB Rating
 
 ## Getting Started
 
@@ -17,4 +17,4 @@ A simple 10 min project to flex your python muscles and stay in touch with your 
 
 Contributors name(s) :
 
-Name : Pritish Chatterjee
+Pritish Chatterjee
